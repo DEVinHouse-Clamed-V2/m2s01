@@ -1,0 +1,35 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï½…Ï8ìú¶¨1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ğÚÅøÿÿÿÿ8íú¶¨1
+£
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’Æ³óøÿÿÿÿ8ùú¶¨1
+_
+java:S1854"=Remove this useless assignment to local variable "nomeDaMae".(íƒ÷¢ÿÿÿÿÿ8°©Š·¨1
+]
+java:S1854"@Remove this useless assignment to local variable "nomecompleto".(›Í×±8ó¯·¨1
+V
+java:S1854"9Remove this useless assignment to local variable "id4d3".(ÉÉ¶8ıú¶¨1
+W
+java:S1854":Remove this useless assignment to local variable "$letra".(Ï½…Ï8şú¶¨1
+U
+java:S1854"8Remove this useless assignment to local variable "nome".(Æ©¥¿8şú¶¨1
+Z
+java:S1854"8Remove this useless assignment to local variable "nome".(ÂÁïèûÿÿÿÿ8şú¶¨1
+K
+java:S1481")Remove this unused "nome" local variable.(ÂÁïèûÿÿÿÿ8€‘ú¶¨1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¦¤’ÿÿÿÿÿ8‘ú¶¨1
+H
+java:S1481"+Remove this unused "$letra" local variable.(Ï½…Ï8‚‘ú¶¨1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦¤’ÿÿÿÿÿ8ƒ‘ú¶¨1
+P
+java:S1481".Remove this unused "_vascaino" local variable.(•ğÚÅøÿÿÿÿ8„‘ú¶¨1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôà”Ñûÿÿÿÿ8…‘ú¶¨1
+G
+java:S1481"*Remove this unused "id4d3" local variable.(ÉÉ¶8†‘ú¶¨1
+N
+java:S1481"1Remove this unused "nomecompleto" local variable.(›Í×±8€–€·¨1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹Å†¯üÿÿÿÿ8ü¯·¨1
+P
+java:S1481".Remove this unused "character" local variable.(¶ãú±üÿÿÿÿ8‰‘ú¶¨1
+P
+java:S1481".Remove this unused "nomeDaMae" local variable.(íƒ÷¢ÿÿÿÿÿ8½©Š·¨1
